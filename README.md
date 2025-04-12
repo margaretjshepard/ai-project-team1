@@ -1,5 +1,6 @@
 # mArketIng: Personalized Product Recommendations 
 
+-
 
 ## Author List:
 - [Margaret Shepard](https://github.com/margaretjshepard/resume)
@@ -9,5 +10,14 @@
 
 
 
-Comprehensive Report:
+## Comprehensive Report:
+
+
+## Project Scope:
+
+
+## Project Details:
+
+
+## What's Next:
 
