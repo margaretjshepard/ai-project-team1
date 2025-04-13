@@ -23,7 +23,7 @@
 
 
 ## Website Demo:
-[Book Recommender](https://script.google.com/macros/s/AKfycbzLcQzeYTNW3qBVn9D1yvycJLSu1uzGcDhqRZD4-9mNr8Gs69K3uPkMbop1HvhB7rzq/exec)
+[Book Recommender](https://script.google.com/macros/s/AKfycbxBGkUt2qfhxrf-yNstFfEKpOBgDy_d5ZJuQ0SX7QZ_J0XoxWbOe9onyAtJmInyLTmY_Q/exec)
 
 
 ## References:
