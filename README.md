@@ -4,7 +4,7 @@
 
 ## Author List:
 - [Margaret Shepard](https://github.com/margaretjshepard/resume)
-- [Assya Ba](#assya-ba)
+- [Assya Ba](https://github.com/assyaba/Portfolio/blob/main/README.md)
 - [Derek Atiawu](https://github.com/derek-atiawu/bio/blob/main/README.md)
 - [Daniel Flax](https://github.com/dbflax/Bio)
 
