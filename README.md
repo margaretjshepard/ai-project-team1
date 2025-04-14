@@ -17,7 +17,7 @@
 [Book Recommender](https://script.google.com/macros/s/AKfycbxBGkUt2qfhxrf-yNstFfEKpOBgDy_d5ZJuQ0SX7QZ_J0XoxWbOe9onyAtJmInyLTmY_Q/exec)
 
 ## Code:
-[Accessible here](AIProject_FinalCode)
+[Accessible here](https://github.com/margaretjshepard/ai-project-team1/blob/main/Team%201%20AI%20Marketing%20Model.ipynb)
 
 
 ## References:
