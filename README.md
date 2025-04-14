@@ -20,7 +20,7 @@
 [Accessible here](https://github.com/margaretjshepard/ai-project-team1/blob/main/Team%201%20AI%20Marketing%20Model.ipynb)
 
 ## Research Article:
-[Accessible Here](https://assets.amazon.science/2f/11/f244cfa04f1c9d5abc98f4c30ca5/coarse-to-fine-sparse-sequential-recommendation.pdf
+[Accessible Here](https://assets.amazon.science/2f/11/f244cfa04f1c9d5abc98f4c30ca5/coarse-to-fine-sparse-sequential-recommendation.pdf)
 
 ## Vibe Coding Prompt:
 -Create a website. It should use both datasets, with book_id as the shared column between them. Users should be able to enter their user ID directly on the website. The recommender model will use this input to suggest books based on how the user has rated certain titles in the past. The website should allow users to choose how many recommendations they want to receive (between 1 and 5). For each recommendation, the site should display the book’s cover using the image_url from the books CSV file. 
