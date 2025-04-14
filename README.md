@@ -16,6 +16,9 @@
 ## Website Demo:
 [Book Recommender](https://script.google.com/macros/s/AKfycbxBGkUt2qfhxrf-yNstFfEKpOBgDy_d5ZJuQ0SX7QZ_J0XoxWbOe9onyAtJmInyLTmY_Q/exec)
 
+## Code:
+[Accessible here](AIProject_FinalCode)
+
 
 ## References:
 -Statista, and The Insight Partners. "Market Value of Artificial Intelligence (Ai) in Marketing Worldwide from 2020 to 2028 (in Billion U.S. Dollars)." Statista, Statista Inc., 15 Apr 2021, https://www.statista.com/statistics/1293758/ai-marketing-revenue-worldwide/ 
